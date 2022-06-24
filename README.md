@@ -1,5 +1,5 @@
-# My VŠB-TUO projects (HTML, CSS, JS)
-Source codes (HTML, CSS, JS) of my projects created during my studies at The Technical University of Ostrava (VŠB).\
+# My VŠB-TUO projects (HTML, CSS, JS, PHP)
+Source codes (HTML, CSS, JS, PHP) of my projects created during my studies at The Technical University of Ostrava (VŠB).\
 *Some comments may be written in Czech as it is my mother tongue in which I also attended the studies.*
 
 ## These projects were part of the following subjects:
